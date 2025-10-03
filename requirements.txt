@@ -1,0 +1,7 @@
+pymupdf
+easyocr
+Pillow
+python-pptx
+numpy
+scikit-learn
+
